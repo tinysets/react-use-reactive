@@ -31,12 +31,12 @@ let obj = reactive({
 setTimeout(() => {
   console.log("[push] person ====================");
   obj.data.persons.push({ name: "qux", age: 3 });
-}, 1000);
+}, 3000);
 
 setTimeout(() => {
   console.log("[delete] person ====================");
   obj.data.persons.splice(0, 1);
-}, 2000);
+}, 6000);
 
 function Person({ person }: { person: IPerson }) {
   return useReactive(() => {
