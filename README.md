@@ -1,5 +1,5 @@
 #   react-vue-use-reactive 
-    Use Vue’s reactivity system in React right now!
+    Use Vue's reactivity system in React right now!
 
 ##  Useage:
 ```
