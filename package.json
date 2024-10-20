@@ -1,6 +1,6 @@
 {
   "name": "react-vue-use-reactive",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "Use Vue's reactivity system in React right now!",
   "keywords": [
     "react-vue-use-reactive",
