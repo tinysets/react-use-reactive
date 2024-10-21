@@ -19,7 +19,7 @@ export function useReactive(renderFun: () => JSX.Element | null) {
       if (ref.current == stop) {
         ref.current = null
       }
-    }, { deep: true, flush: "post", once: true }
+    }, { deep: true, flush: "sync", once: true }
   )
   if (ref.current) {
     ref.current.stop();
