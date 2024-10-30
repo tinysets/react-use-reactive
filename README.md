@@ -1,10 +1,10 @@
-#   react-usereactive 
+#   react-use-vue-reactive
     Use Vue's reactivity system in React right now!
 
 ##  Useage:
 ```
 npm install -S vue
-npm install -S react-usereactive
+npm install -S react-use-vue-reactive
 ```
 
 [Live Demo](https://jt6nv9.csb.app/)
@@ -12,7 +12,7 @@ npm install -S react-usereactive
 Example: App.tsx
 ```ts
 import { reactive } from "vue";
-import { useReactive } from "react-usereactive";
+import { useReactive } from "react-use-vue-reactive";
 
 interface IPerson {
   name: string;
