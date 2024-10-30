@@ -4,7 +4,7 @@
 ##  Useage:
 ```
 npm install -S vue
-npm install -S react-vue-use-reactive
+npm install -S react-use-reactive
 ```
 
 [Live Demo](https://jt6nv9.csb.app/)
@@ -12,7 +12,7 @@ npm install -S react-vue-use-reactive
 Example: App.tsx
 ```ts
 import { reactive } from "vue";
-import { useReactive } from "react-vue-use-reactive";
+import { useReactive } from "react-use-reactive";
 
 interface IPerson {
   name: string;
