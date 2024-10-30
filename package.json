@@ -1,9 +1,9 @@
 {
-  "name": "react-use-reactive",
+  "name": "react-usereactive",
   "version": "1.0.0",
   "description": "Use Vue's reactivity system in React right now!",
   "keywords": [
-    "react-use-reactive",
+    "react-usereactive",
     "useReactive",
     "reactivity",
     "reactive",
@@ -21,10 +21,10 @@
     "name": "Leo Zhao",
     "email": "a625335512@gmail.com"
   },
-  "homepage": "https://github.com/tinysets/react-use-reactive",
+  "homepage": "https://github.com/tinysets/react-usereactive",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/tinysets/react-use-reactive.git"
+    "url": "git+https://github.com/tinysets/react-usereactive.git"
   },
   "license": "ISC",
   "devDependencies": {
